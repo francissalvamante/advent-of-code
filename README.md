@@ -8,11 +8,11 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 
 ## Solutions
 
-| Day | Part 1 | Part 2 | Language |
-|-----|--------|--------|----------|
-| 1   | ✅     | ✅     | C++      |
+| Day | Part 1 | Part 2 | Language   |
+| --- | ------ | ------ | ---------- |
+| 1   | ✅     | ✅     | C++        |
 | 2   | ✅     | ❌     | JavaScript |
-| 3   | ✅     | ❌     | JavaScript |
+| 3   | ✅     | ✅     | JavaScript |
 
 ## Running the Solutions
 
@@ -23,6 +23,7 @@ node day-X-part-Y.js < input.txt
 ```
 
 Or pipe input directly:
+
 ```bash
 echo "your input" | node day-X-part-Y.js
 ```
@@ -30,6 +31,7 @@ echo "your input" | node day-X-part-Y.js
 ### C++ Solutions
 
 Compile and run:
+
 ```bash
 g++ day-X-part-Y.cpp -o day-X-part-Y
 ./day-X-part-Y < input.txt
@@ -43,6 +45,7 @@ advent-of-code/
 ├── day-1-part-2.cpp
 ├── day-2-part-1.js
 ├── day-3-part-1.js
+├── day-3-part-2.js
 └── README.md
 ```
 
