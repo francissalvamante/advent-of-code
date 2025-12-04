@@ -13,6 +13,7 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 | 1   | ✅     | ✅     | C++        |
 | 2   | ✅     | ❌     | JavaScript |
 | 3   | ✅     | ✅     | JavaScript |
+| 4   | ✅     | ❌     | C++        |
 
 ## Running the Solutions
 
@@ -46,6 +47,7 @@ advent-of-code/
 ├── day-2-part-1.js
 ├── day-3-part-1.js
 ├── day-3-part-2.js
+├── day-4-part-1.js
 └── README.md
 ```
 
