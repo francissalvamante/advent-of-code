@@ -13,7 +13,7 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 | 1   | ✅     | ✅     | C++        |
 | 2   | ✅     | ❌     | JavaScript |
 | 3   | ✅     | ✅     | JavaScript |
-| 4   | ✅     | ❌     | C++        |
+| 4   | ✅     | ✅     | C++        |
 
 ## Running the Solutions
 
