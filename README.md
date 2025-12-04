@@ -47,7 +47,8 @@ advent-of-code/
 ├── day-2-part-1.js
 ├── day-3-part-1.js
 ├── day-3-part-2.js
-├── day-4-part-1.js
+├── day-4-part-1.cpp
+├── day-4-part-2.cpp
 └── README.md
 ```
 
