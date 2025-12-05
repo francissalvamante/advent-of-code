@@ -9,6 +9,7 @@ Advent of Code is an annual coding event featuring daily programming puzzles thr
 ## Years
 
 - [2025](./2025) - 4 days completed
+- [2015](./2015) - 2 days completed (`Day 3 - Part 2` Pending Solution)
 
 ## Languages Used
 
