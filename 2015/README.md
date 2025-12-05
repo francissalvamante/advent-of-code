@@ -12,7 +12,7 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 | --- | ------ | ------ | ---------- |
 | 1   | ✅     | ✅     | JavaScript |
 | 2   | ✅     | ✅     | JavaScript |
-| 3   | ✅     | ❌     | JavaScript |
+| 3   | ✅     | ✅     | JavaScript |
 
 ## Running the Solutions
 
@@ -45,15 +45,16 @@ advent-of-code/
 ├──── part-1.js
 ├──── part-2.js
 ├── day-2
-├──── part-1.cpp
-├──── part-2.cpp
+├──── part-1.js
+├──── part-2.js
 ├──── input.txt
 ├──── sample-input.txt
 ├── day-3
-├──── part-1.cpp
-├──── part-2.cpp
+├──── part-1.js
+├──── part-2.js
 ├──── input.txt
 ├──── sample-input.txt
+├──── logical-scratch.txt # used to check logic for moving santa and robot-santa when shifting
 └── README.md
 ```
 

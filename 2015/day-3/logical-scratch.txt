@@ -1,0 +1,52 @@
+i = 0 -> santa's turn
+santa_coords = [0,0]; // before
+robo-santa_coords = [0,0]
+direction = ^
+houses 
+[
+  [0]
+]
+after instruction
+[
+  [1],
+  [1]
+]
+santa_coords = [0,0]; // after
+-------------------
+i = 1 -> robo-santa's turn
+santa_coords = [0,0];
+robo-santa_coords = [1,0]
+direction = v
+houses
+[
+  [1],
+  [1],
+]
+after instruction
+[
+  [1], // 0 0
+  [2], // 1 0
+  [1]  // 2 0
+]
+robo-santa_coords = [2,0]
+santa_coords = [0,0]
+-------------------
+i = 2 -> santa's turn
+santa_coords = [0,0]
+robo-santa_coords = [2,0];
+direction = ^
+houses
+[
+  [1], <- Santa is here
+  [2],
+  [1]  <- Robo-Santa is here
+]
+after instruction
+[
+  [1], <- Santa is here
+  [1],
+  [2],
+  [1], <- Robo-Santa SHOULD be here
+]
+santa_coords = [0,0]
+robo-santa_coords = [3,0] <- Updated since array was shifted
