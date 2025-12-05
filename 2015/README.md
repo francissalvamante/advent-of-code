@@ -10,10 +10,9 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 
 | Day | Part 1 | Part 2 | Language   |
 | --- | ------ | ------ | ---------- |
-| 1   | ✅     | ✅     | C++        |
+| 1   | ✅     | ✅     | JavaScript |
 | 2   | ✅     | ✅     | JavaScript |
-| 3   | ✅     | ✅     | JavaScript |
-| 4   | ✅     | ✅     | C++        |
+| 3   | ✅     | ❌     | JavaScript |
 
 ## Running the Solutions
 
@@ -43,17 +42,18 @@ cd day-X && g++ part-Y.cpp -o part-Y
 ```
 advent-of-code/
 ├── day-1
-├──── part-1.cpp
-├──── part-2.cpp
+├──── part-1.js
+├──── part-2.js
 ├── day-2
 ├──── part-1.cpp
 ├──── part-2.cpp
+├──── input.txt
+├──── sample-input.txt
 ├── day-3
 ├──── part-1.cpp
 ├──── part-2.cpp
-├── day-4
-├──── part-1.cpp
-├──── part-2.cpp
+├──── input.txt
+├──── sample-input.txt
 └── README.md
 ```
 
