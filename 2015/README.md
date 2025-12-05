@@ -13,7 +13,9 @@ Advent of Code is an annual coding event with daily programming puzzles througho
 | 1   | ✅     | ✅     | JavaScript |
 | 2   | ✅     | ✅     | JavaScript |
 | 3   | ✅     | ✅     | JavaScript |
-| 3   | ✅     | ✅     | NodeJS     |
+| 4   | ✅     | ✅     | NodeJS     |
+| 5   | ✅     | ✅     | JavaScript |
+| 6   | ✅     | ✅     | JavaScript |
 
 ## Running the Solutions
 
@@ -36,32 +38,6 @@ Compile and run:
 ```bash
 cd day-X && g++ part-Y.cpp -o part-Y
 ./day-X-part-Y < input.txt
-```
-
-## Repository Structure
-
-```
-advent-of-code/
-├── day-1
-├──── part-1.js
-├──── part-2.js
-├── day-2
-├──── part-1.js
-├──── part-2.js
-├──── input.txt
-├──── sample-input.txt
-├── day-3
-├──── part-1.js
-├──── part-2.js
-├──── input.txt
-├──── sample-input.txt
-├──── logical-scratch.txt # used to check logic for moving santa and robot-santa when shifting
-├── day-4
-├──── package-lock.json
-├──── package.json
-├──── part-1.js
-├──── part-2.js
-└── README.md
 ```
 
 ## Notes
