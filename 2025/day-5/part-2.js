@@ -31,7 +31,7 @@ process.stdin.on("data", (chunk) => {
     freshCnt += end - start + 1;
   }
 
-  // Brute force with Set isn't optimal for this problem
+  // Brute force with Set isn't optimal for this problem (Memory Overflow)
   // const freshIds = new Set();
   // ranges.forEach((range) => {
   //   const [min, max] = range.split("-").map(Number);
